@@ -2,6 +2,7 @@ plugins {
     id 'java'
 }
 
+
 group 'ua'
 version '1.0-SNAPSHOT'
 
